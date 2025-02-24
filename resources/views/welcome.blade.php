@@ -70,10 +70,7 @@
                                             document.getElementById('background').classList.add('!hidden');
                                         "
                                     />
-                                    <img
-                                    src="http://localhost:5173/storage/app/public/arya.jpg"
-                                        alt="Laravel documentation screenshot"
-                                    />
+
                                     <div
                                         class="absolute -bottom-16 -left-16 h-40 w-[calc(100%_+_8rem)] bg-gradient-to-b from-transparent via-white to-white dark:via-zinc-900 dark:to-zinc-900"
                                     ></div>
